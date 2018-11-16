@@ -1,9 +1,0 @@
-diff a/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF b/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF	(rejected hunks)
-@@ -1,7 +1,6 @@
- Manifest-Version: 1.0
- Implementation-Title: b22
- Implementation-Version: 0.0.1-SNAPSHOT
--Built-By: BIT03-20
- Built-By: 5CLASS-184
- Implementation-Vendor-Id: org.zerock
- Build-Jdk: 1.8.0_181
